@@ -6,7 +6,7 @@ import Signup from "./components/Signup"
 import Login from "./components/Login"
 
 import App2 from "./App2"
-import ForgotPassword from "./components/forgotPassword"
+import ForgotPassword from "./components/ForgotPassword"
 import App3 from "./App3"
 
 
